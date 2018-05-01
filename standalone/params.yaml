@@ -1,0 +1,32 @@
+%YAML:1.0
+---
+BlobTracker2:
+   -
+      SBDParams_filterByColor: 0
+      SBDParams_blobColor: 0
+      SBDParams_minThreshold: 5.
+      SBDParams_maxThreshold: 200.
+      SBDParams_filterByArea: 1
+      SBDParams_minArea: 10.
+      SBDParams_filterByCircularity: 1
+      SBDParams_minCircularity: 1.0000000149011612e-01
+      SBDParams_filterByConvexity: 1
+      SBDParams_minConvexity: 5.0000000000000000e-01
+      SBDParams_filterByInertia: 1
+      SBDParams_minInertiaRatio: 3.0000001192092896e-01
+      ThreshH: 180
+      ThreshS: 255
+      ThreshV: 41
+      NDilate1: 3
+      NErode1: 2
+      SWidth: 30.
+      NonZeroMin: 5.0000000000000000e-01
+      NonZeroMax: 3.4000000953674316e+00
+      VPMax: 5.
+      VSMax: 2.5000000000000000e+00
+      NReset: 3
+      DistMaxCalib: 8.0000001192092896e-01
+      DSMaxCalib: 5.0000000000000000e-01
+      DSEmp: 4.
+      DPEmp: 10.
+      NCalibPoints: 10
